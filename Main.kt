@@ -12,7 +12,7 @@ fun main() {
 }
 
 class Tamagochi {
-    var energy:  Int = 10
+    var energy: Int = 10
     var safiety: Int = 10
 
     fun show() {
